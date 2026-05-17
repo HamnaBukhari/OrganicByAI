@@ -137,7 +137,7 @@
       </div>
     </div>
     <div class="footer-bottom">
-      <p>© 2025 OrganicByAI. All rights reserved.</p>
+      <p>© 2026 OrganicByAI. All rights reserved.</p>
       <p>Organic Growth, Powered by AI</p>
     </div>
   </div>
